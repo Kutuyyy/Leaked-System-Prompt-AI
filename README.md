@@ -21,6 +21,12 @@ The goal is simple:
 
 ---
 
+> ⚠️ **DO THIS AT YOUR OWN RISK.**
+>
+> Make sure you understand what you're doing before using any information or tools from this repository with your AI account.
+
+---
+
 ## 🌐 Systems & Platforms
 
 This project covers research and documentation related to major AI systems and agent platforms, including:
